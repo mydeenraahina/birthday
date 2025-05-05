@@ -2,7 +2,7 @@ import streamlit as st
 import time
 
 # Title of the app
-st.title("🎉 Happy Birthday! 🎂🎈")
+st.title("🎉 Happy Birthday Anu! 🎂🎈")
 st.balloons()
 
 # Custom background image CSS (replace with your image URL)
@@ -25,7 +25,7 @@ button_clicked = st.button("💌 Read More...", key="read_message")
 
 # Emotional Birthday Message
 birthday_message = """
- 💌 Birthday Message for Your First College Friend – Heartfelt Edition 🌸
+ 💌 Birthday Message for my First College Friend – Heartfelt Edition 🌸
 
 Happy Birthday, Anu! 🎉💖✨
 
