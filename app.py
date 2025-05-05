@@ -5,17 +5,7 @@ import time
 st.title("🎉 Happy Birthday My Girl! 🎂🎈")
 st.balloons()
 
-# Custom background image CSS (replace with your image URL)
-background_image = """
-    <style>
-        body {
-            background-image: url('https://www.w3schools.com/w3images/fjords.jpg');  # Example background image
-            background-size: cover;
-            background-position: center;
-            background-repeat: no-repeat;
-        }
-    </style>
-"""
+
 
 # Render the custom background image CSS
 st.markdown(background_image, unsafe_allow_html=True)
