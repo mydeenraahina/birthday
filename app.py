@@ -2,7 +2,7 @@ import streamlit as st
 import time
 
 # Title of the app
-st.title("🎉 Happy Birthday Anu! 🎂🎈")
+st.title("🎉 Happy Birthday My Girl! 🎂🎈")
 st.balloons()
 
 # Custom background image CSS (replace with your image URL)
