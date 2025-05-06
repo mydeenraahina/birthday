@@ -7,8 +7,7 @@ st.balloons()
 
 
 
-# Render the custom background image CSS
-st.markdown(background_image, unsafe_allow_html=True)
+
 
 # Centered button with more attractive style
 button_clicked = st.button("💌 Read More...", key="read_message")
